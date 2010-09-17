@@ -8,8 +8,8 @@ Standards-Version: 3.8.1
 Package: tuquito-desktop-lxde
 Architecture: all
 Depends:cheese, emesene, gimp, gufw, vlc, vino-xfce, vinagre, abiword, osmo, gnumeric, simple-scan, ndisgtk, ndiswrapper-utils-1.9, transmission, exaile, thunderbird, thunderbird-locale-es-ar
-Conflict: tuquito-desktop-main
-Replace: tuquito-desktop-main
+Conflicts: tuquito-desktop-main
+Replaces: tuquito-desktop-main
 Description: Escritorio de Tuquito con extras
  Instala todas las aplicaciones de Tuquito para la edición lxde y agrega extras
  * Tuquito Team! - 2010

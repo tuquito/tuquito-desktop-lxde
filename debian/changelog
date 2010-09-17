@@ -1,3 +1,9 @@
+tuquito-desktop-lxde (4.1-2) maverick; urgency=low
+
+  * conflicts and replaces in control file solved
+
+ -- Mario Colque <mario@tuquito.org.ar>  Fri, 17 Sep 2010 00:07:33 -0300
+
 tuquito-desktop-lxde (4.1-1) maverick; urgency=low
 
   * Version Inicial
