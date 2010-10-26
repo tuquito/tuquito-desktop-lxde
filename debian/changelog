@@ -1,3 +1,9 @@
+tuquito-desktop-lxde (4.1-10) maverick; urgency=low
+
+  * added tilda
+
+ -- Mario Colque <mario@tuquito.org.ar>  Tue, 26 Oct 2010 01:36:01 -0300
+
 tuquito-desktop-lxde (4.1-9) maverick; urgency=low
 
   * new depends
