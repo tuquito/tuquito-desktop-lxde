@@ -1,3 +1,10 @@
+tuquito-desktop-lxde (4.1-11) maverick; urgency=low
+
+  * removed gnome-mplayer, exaile
+  * added vlc player
+
+ -- Mario Colque <mario@tuquito.org.ar>  Fri, 29 Oct 2010 19:22:40 -0300
+
 tuquito-desktop-lxde (4.1-10) maverick; urgency=low
 
   * added tilda
