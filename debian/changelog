@@ -1,3 +1,9 @@
+tuquito-desktop-lxde (4.1-12) maverick; urgency=low
+
+  * deleted livecd configurations
+
+ -- Mario Colque <mario@tuquito.org.ar>  Thu, 04 Nov 2010 12:40:39 -0300
+
 tuquito-desktop-lxde (4.1-11) maverick; urgency=low
 
   * removed gnome-mplayer, exaile
