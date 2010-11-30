@@ -1,3 +1,9 @@
+tuquito-desktop-lxde (4.1-13) maverick; urgency=low
+
+  * emesene deleted
+
+ -- Mario Colque <mario@tuquito.org.ar>  Tue, 30 Nov 2010 20:12:31 -0300
+
 tuquito-desktop-lxde (4.1-12) maverick; urgency=low
 
   * deleted livecd configurations
