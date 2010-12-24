@@ -1,3 +1,10 @@
+tuquito-desktop-lxde (4.1-14) maverick; urgency=low
+
+  * deleted vlc
+  * added gnome-mplayer
+
+ -- Mario Colque <mario@tuquito.org.ar>  Fri, 24 Dec 2010 02:27:21 -0300
+
 tuquito-desktop-lxde (4.1-13) maverick; urgency=low
 
   * emesene deleted
